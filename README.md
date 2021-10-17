@@ -1,2 +1,2 @@
 # door
-door repofor git command demenstration
+door repo for git command demomenstration
